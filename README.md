@@ -11,16 +11,16 @@
 
 <!-- Name Banner -->
 <p align="center">
-  <a href="https://github.com/1hehaq">
+  <a href="https://github.com/snowden-pc">
     <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMzUsInciOjEyNTAsImZzIjoxMDgsImZnYyI6IiNFN0NGQUEiLCJiZ2MiOiIjMDAwMDAwIiwidCI6MX0/SmhlaGFxIA/karasha.png" alt="1hehaq" width="400">
   </a>
 </p>
 
 <!-- Follow Buttons -->
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=1hehaq&color=E7CFAA"><img src="https://komarev.com/ghpvc/?username=1hehaq&color=E7CFAA" alt="Profile Views"></a>
-  <a href="https://github.com/1hehaq"><img src="https://img.shields.io/github/followers/1hehaq?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="https://twitter.com/1hehaq"><img src="https://img.shields.io/twitter/follow/1hehaq?label=Follow&style=social" alt="Twitter Follow"></a>
+  <a href="https://komarev.com/ghpvc/?username=snowden-pc&color=E7CFAA"><img src="https://komarev.com/ghpvc/?username=snowden-pc&color=E7CFAA" alt="Profile Views"></a>
+  <a href="https://github.com/snowden-pc"><img src="https://img.shields.io/github/followers/snowden-pc?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://twitter.com/snowden-pc"><img src="https://img.shields.io/twitter/follow/snowden-pc?label=Follow&style=social" alt="Twitter Follow"></a>
 </p>
 
 </div>
@@ -35,10 +35,10 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/1hehaq"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Script+Kiddie;Bug+Bounty+Hunter;Web3%20Dev%20%26%20Audit;Solidity+•+Bash+•+Python+Dev" alt="Typing SVG" align="center"/></a>
+  <a href="https://github.com/snowden-pc"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Script+Kiddie;Bug+Bounty+Hunter;Web3%20Dev%20%26%20Audit;Solidity+•+Bash+•+Python+Dev" alt="Typing SVG" align="center"/></a>
 </p>
 
-  <img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="left" width="50" height="50" alt="image"/>
+  <img src="https://avatars.githubusercontent.com/u/158505616?v=4" align="left" width="50" height="50" alt="image"/>
 
 ```python
 #!/usr/bin/python
@@ -65,7 +65,7 @@ me.say_hi()
 
 <!-- Quote -->
 <div align="right">
-  <a href="https://x.com/1hehaq"><img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="right" width="50" height="50" alt="image" style="margin-bottom: 20px;" style="margin-top: 20px;"/></a>
+  <a href="https://x.com/1hehaq"><img src="https://avatars.githubusercontent.com/u/158505616?v=4" align="right" width="50" height="50" alt="image" style="margin-bottom: 20px;" style="margin-top: 20px;"/></a>
   <a href="https://github.com/1hehaq"><img src="https://github.com/user-attachments/assets/dab8301b-24da-4e13-9a98-11519a98b26e" alt="tweet-quote" width="400" style="margin-bottom: 20px;"/></a>
 </div>
 
@@ -79,7 +79,7 @@ me.say_hi()
 
   <!-- Knowledge & Skills -->
 <p align="left" style="display: flex; align-items: center;">
-  <a href="https://x.com/1hehaq"><img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
+  <a href="https://x.com/1hehaq"><img src="https://avatars.githubusercontent.com/u/158505616?v=4" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/IEtub3dsZWRnZSA8Lz4gU2tpbGxz/karasha.png" width="250" alt="Knowledge & Skills"/>
 </p>
 
@@ -139,7 +139,7 @@ me.say_hi()
 <div align="right" style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
   <p align="right" style="display: flex; align-items: center;">
-    <a href="https://x.com/1hehaq"><img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" width="50" height="50" alt="image" style="margin-left: 10px;" align="right"/></a>
+    <a href="https://x.com/1hehaq"><img src="https://avatars.githubusercontent.com/u/158505616?v=4" width="50" height="50" alt="image" style="margin-left: 10px;" align="right"/></a>
     <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/cHJvamVjdHM=/karasha.png" width="100" alt="projects">
   </p>
 
@@ -212,10 +212,10 @@ me.say_hi()
 </h2>
 
 <p align="center">
-  <a href="https://x.com/1hehaq"><img src="https://img.shields.io/badge/1hehaq-1DA1F2?style=for-the-badge&logo=X&logoColor=E7CFAA&color=000000" alt="Twitter" /></a>
-  <a href="https://www.instagram.com/1hehaq" target="_blank"><img src="https://img.shields.io/badge/1hehaq-E4405F?style=for-the-badge&logo=instagram&logoColor=E7CFAA&color=000000" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/1hehaq"><img src="https://img.shields.io/badge/1hehaq-0077B5?style=for-the-badge&logo=linkedin&logoColor=E7CFAA&color=000000" alt="LinkedIn" /></a>
-  <a href="https://t.me/th3haq"><img src="https://img.shields.io/badge/th3haq-12100E?style=for-the-badge&logo=telegram&logoColor=E7CFAA&color=000000" alt="Telegram" /></a>
+  <a href="https://x.com/snowden-pc"><img src="https://img.shields.io/badge/1hehaq-1DA1F2?style=for-the-badge&logo=X&logoColor=E7CFAA&color=000000" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/snowden-pc" target="_blank"><img src="https://img.shields.io/badge/1hehaq-E4405F?style=for-the-badge&logo=instagram&logoColor=E7CFAA&color=000000" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/snowden-pc"><img src="https://img.shields.io/badge/1hehaq-0077B5?style=for-the-badge&logo=linkedin&logoColor=E7CFAA&color=000000" alt="LinkedIn" /></a>
+  <a href="https://t.me/snowden-pc"><img src="https://img.shields.io/badge/th3haq-12100E?style=for-the-badge&logo=telegram&logoColor=E7CFAA&color=000000" alt="Telegram" /></a>
 </p>
 
 <br>
